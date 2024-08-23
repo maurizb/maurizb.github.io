@@ -1,5 +1,5 @@
 name: Describe EC2 instances
-on: push
+on: workflow_dispatch
 jobs:
   describe:
     runs-on: ubuntu-latest
